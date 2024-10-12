@@ -5,7 +5,7 @@ This README contains essential macOS Terminal commands that are helpful for dail
 ## 1. Navigating Directories
 
 
-1. Navigating Directories
+## 1. Navigating Directories
 
 	pwd: Print the current directory path.
 
