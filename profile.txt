@@ -1,3 +1,7 @@
-Hi! I’m Abdullah Nazmus-Sakib, currently a third-year student at Jahangirnagar University, studying in the Department of Computer Science and Engineering. I hail from Bagmara, Rajshahi, and my goal is to become a proficient software engineer.
+Hi! I’m Abdullah Nazmus-Sakib, 
+currently a third-year student at Jahangirnagar University, 
+studying in the Department of Computer Science and Engineering. 
+I hail from Bagmara, Rajshahi, and my goal is to become a proficient software engineer.
 
-To achieve this, I am about to begin a course with Bongodev, which will help me enhance my skills and better prepare for job opportunities in the near future.
+To achieve this, I am about to begin a course with Bongodev, 
+which will help me to enhance my skills and better prepare for job opportunities in the near future.
