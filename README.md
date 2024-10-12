@@ -1,14 +1,15 @@
-Here is the README file code, formatted and ready for GitHub:
+Here’s the continuation of the README in the same format for all the commands:
 
-# Basic macOS Terminal Commands for Day-to-Day Usage
+Basic macOS Terminal Commands for Day-to-Day Usage
 
 This README contains essential macOS Terminal commands that are helpful for daily tasks such as file management, navigation, network operations, and system monitoring.
 
-## 1. Navigating Directories
+1. Navigating Directories
 
-- **`pwd`**: Print the current directory path.
-  ```bash
-  pwd
+	•	pwd: Print the current directory path.
+
+pwd
+
 
 	•	ls: List files and directories.
 
@@ -180,4 +181,6 @@ history
 
 exit
 
-You can copy and paste this into a `README.md` file for your GitHub repository. Let me know if you need further adjustments!
+
+
+This format is ready to use in a README.md file for your GitHub repository! Let me know if you need anything else.
